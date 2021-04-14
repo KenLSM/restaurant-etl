@@ -1,431 +1,126 @@
-Osakaya Restaurant,0,11:30 am - 9 pm
-Osakaya Restaurant,3,11:30 am - 9 pm
-Osakaya Restaurant,6,11:30 am - 9 pm
-Osakaya Restaurant,4,11:30 am - 9:30 pm
-Osakaya Restaurant,5,11:30 am - 9:30 pm
-Kushi Tsuru,0,11:30 am - 9 pm
-Kushi Tsuru,6,11:30 am - 9 pm
-The Stinking Rose,0,11:30 am - 10 pm
-The Stinking Rose,3,11:30 am - 10 pm
-The Stinking Rose,6,11:30 am - 10 pm
-The Stinking Rose,4,11:30 am - 11 pm
-The Stinking Rose,5,11:30 am - 11 pm
-McCormick & Kuleto's,0,11:30 am - 10 pm
-McCormick & Kuleto's,3,11:30 am - 10 pm
-McCormick & Kuleto's,6,11:30 am - 10 pm
-McCormick & Kuleto's,4,11:30 am - 11 pm
-McCormick & Kuleto's,5,11:30 am - 11 pm
-Mifune Restaurant,0,11 am - 10 pm
-Mifune Restaurant,6,11 am - 10 pm
-The Cheesecake Factory,0,11 am - 11 pm
-The Cheesecake Factory,3,11 am - 11 pm
-The Cheesecake Factory,4,11 am - 12:30 am
-The Cheesecake Factory,5,11 am - 12:30 am
-The Cheesecake Factory,6,10 am - 11 pm
-New Delhi Indian Restaurant,0,11:30 am - 10 pm
-New Delhi Indian Restaurant,5,11:30 am - 10 pm
-New Delhi Indian Restaurant,6,5:30 pm - 10 pm
-Iroha Restaurant,0,11:30 am - 9:30 pm
-Iroha Restaurant,3,11:30 am - 9:30 pm
-Iroha Restaurant,6,11:30 am - 9:30 pm
-Iroha Restaurant,4,11:30 am - 10 pm
-Iroha Restaurant,5,11:30 am - 10 pm
-Rose Pistola,0,11:30 am - 10 pm
-Rose Pistola,3,11:30 am - 10 pm
-Rose Pistola,4,11:30 am - 11 pm
-Rose Pistola,6,11:30 am - 11 pm
-Alioto's Restaurant,0,11 am - 11 pm
-Alioto's Restaurant,6,11 am - 11 pm
-Canton Seafood & Dim Sum Restaurant,0,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,4,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,5,10 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,6,10 am - 9:30 pm
-All Season Restaurant,0,10 am - 9:30 pm
-All Season Restaurant,4,10 am - 9:30 pm
-All Season Restaurant,5,9:30 am - 9:30 pm
-All Season Restaurant,6,9:30 am - 9:30 pm
-Bombay Indian Restaurant,0,11:30 am - 10:30 pm
-Bombay Indian Restaurant,6,11:30 am - 10:30 pm
-Sam's Grill & Seafood Restaurant,0,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,4,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,5,5 pm - 9 pm
-2G Japanese Brasserie,0,11 am - 10 pm
-2G Japanese Brasserie,3,11 am - 10 pm
-2G Japanese Brasserie,6,11 am - 10 pm
-2G Japanese Brasserie,4,11 am - 11 pm
-2G Japanese Brasserie,5,11 am - 11 pm
-Restaurant Lulu,0,11:30 am - 9 pm
-Restaurant Lulu,3,11:30 am - 9 pm
-Restaurant Lulu,6,11:30 am - 9 pm
-Restaurant Lulu,4,11:30 am - 10 pm
-Restaurant Lulu,5,11:30 am - 10 pm
-Sudachi,0,5 pm - 12:30 am
-Sudachi,2,5 pm - 12:30 am
-Sudachi,3,5 pm - 1:30 am
-Sudachi,4,5 pm - 1:30 am
-Sudachi,5,3 pm - 1:30 am
-Sudachi,6,3 pm - 11:30 pm
-Osakaya Restaurant,0,11:30 am - 9 pm
-Osakaya Restaurant,1,11:30 am - 9 pm
-Osakaya Restaurant,2,11:30 am - 9 pm
-Osakaya Restaurant,S,11:30 am - 9 pm
-Osakaya Restaurant,u,11:30 am - 9 pm
-Osakaya Restaurant,n,11:30 am - 9 pm
-Osakaya Restaurant,4,11:30 am - 9:30 pm
-Kushi Tsuru,0,11:30 am - 9 pm
-Kushi Tsuru,1,11:30 am - 9 pm
-Kushi Tsuru,2,11:30 am - 9 pm
-Kushi Tsuru,3,11:30 am - 9 pm
-Kushi Tsuru,4,11:30 am - 9 pm
-Kushi Tsuru,5,11:30 am - 9 pm
-The Stinking Rose,0,11:30 am - 10 pm
-The Stinking Rose,1,11:30 am - 10 pm
-The Stinking Rose,2,11:30 am - 10 pm
-The Stinking Rose,S,11:30 am - 10 pm
-The Stinking Rose,u,11:30 am - 10 pm
-The Stinking Rose,n,11:30 am - 10 pm
-The Stinking Rose,4,11:30 am - 11 pm
-McCormick & Kuleto's,0,11:30 am - 10 pm
-McCormick & Kuleto's,1,11:30 am - 10 pm
-McCormick & Kuleto's,2,11:30 am - 10 pm
-McCormick & Kuleto's,S,11:30 am - 10 pm
-McCormick & Kuleto's,u,11:30 am - 10 pm
-McCormick & Kuleto's,n,11:30 am - 10 pm
-McCormick & Kuleto's,4,11:30 am - 11 pm
-Mifune Restaurant,0,11 am - 10 pm
-Mifune Restaurant,1,11 am - 10 pm
-Mifune Restaurant,2,11 am - 10 pm
-Mifune Restaurant,3,11 am - 10 pm
-Mifune Restaurant,4,11 am - 10 pm
-Mifune Restaurant,5,11 am - 10 pm
-The Cheesecake Factory,0,11 am - 11 pm
-The Cheesecake Factory,1,11 am - 11 pm
-The Cheesecake Factory,2,11 am - 11 pm
-The Cheesecake Factory,4,11 am - 12:30 am
-The Cheesecake Factory,S,10 am - 11 pm
-The Cheesecake Factory,u,10 am - 11 pm
-The Cheesecake Factory,n,10 am - 11 pm
-New Delhi Indian Restaurant,0,11:30 am - 10 pm
-New Delhi Indian Restaurant,1,11:30 am - 10 pm
-New Delhi Indian Restaurant,2,11:30 am - 10 pm
-New Delhi Indian Restaurant,3,11:30 am - 10 pm
-New Delhi Indian Restaurant,4,11:30 am - 10 pm
-New Delhi Indian Restaurant,S,5:30 pm - 10 pm
-New Delhi Indian Restaurant,u,5:30 pm - 10 pm
-New Delhi Indian Restaurant,n,5:30 pm - 10 pm
-Iroha Restaurant,0,11:30 am - 9:30 pm
-Iroha Restaurant,1,11:30 am - 9:30 pm
-Iroha Restaurant,2,11:30 am - 9:30 pm
-Iroha Restaurant,S,11:30 am - 9:30 pm
-Iroha Restaurant,u,11:30 am - 9:30 pm
-Iroha Restaurant,n,11:30 am - 9:30 pm
-Iroha Restaurant,4,11:30 am - 10 pm
-Rose Pistola,0,11:30 am - 10 pm
-Rose Pistola,1,11:30 am - 10 pm
-Rose Pistola,2,11:30 am - 10 pm
-Rose Pistola,4,11:30 am - 11 pm
-Rose Pistola,5,11:30 am - 11 pm
-Alioto's Restaurant,0,11 am - 11 pm
-Alioto's Restaurant,1,11 am - 11 pm
-Alioto's Restaurant,2,11 am - 11 pm
-Alioto's Restaurant,3,11 am - 11 pm
-Alioto's Restaurant,4,11 am - 11 pm
-Alioto's Restaurant,5,11 am - 11 pm
-Canton Seafood & Dim Sum Restaurant,0,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,1,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,2,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,3,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,5,10 am - 9:30 pm
-All Season Restaurant,0,10 am - 9:30 pm
-All Season Restaurant,1,10 am - 9:30 pm
-All Season Restaurant,2,10 am - 9:30 pm
-All Season Restaurant,3,10 am - 9:30 pm
-All Season Restaurant,5,9:30 am - 9:30 pm
-Bombay Indian Restaurant,0,11:30 am - 10:30 pm
-Bombay Indian Restaurant,1,11:30 am - 10:30 pm
-Bombay Indian Restaurant,2,11:30 am - 10:30 pm
-Bombay Indian Restaurant,3,11:30 am - 10:30 pm
-Bombay Indian Restaurant,4,11:30 am - 10:30 pm
-Bombay Indian Restaurant,5,11:30 am - 10:30 pm
-Sam's Grill & Seafood Restaurant,0,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,1,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,2,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,3,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,S,5 pm - 9 pm
-Sam's Grill & Seafood Restaurant,a,5 pm - 9 pm
-Sam's Grill & Seafood Restaurant,t,5 pm - 9 pm
-2G Japanese Brasserie,0,11 am - 10 pm
-2G Japanese Brasserie,1,11 am - 10 pm
-2G Japanese Brasserie,2,11 am - 10 pm
-2G Japanese Brasserie,S,11 am - 10 pm
-2G Japanese Brasserie,u,11 am - 10 pm
-2G Japanese Brasserie,n,11 am - 10 pm
-2G Japanese Brasserie,4,11 am - 11 pm
-Restaurant Lulu,0,11:30 am - 9 pm
-Restaurant Lulu,1,11:30 am - 9 pm
-Restaurant Lulu,2,11:30 am - 9 pm
-Restaurant Lulu,S,11:30 am - 9 pm
-Restaurant Lulu,u,11:30 am - 9 pm
-Restaurant Lulu,n,11:30 am - 9 pm
-Restaurant Lulu,4,11:30 am - 10 pm
-Sudachi,0,5 pm - 12:30 am
-Sudachi,1,5 pm - 12:30 am
-Sudachi,3,5 pm - 1:30 am
-Sudachi,S,3 pm - 1:30 am
-Sudachi,a,3 pm - 1:30 am
-Sudachi,t,3 pm - 1:30 am
-Sudachi,S,3 pm - 11:30 pm
-Sudachi,u,3 pm - 11:30 pm
-Sudachi,n,3 pm - 11:30 pm
-Osakaya Restaurant,0,11:30 am - 9 pm
-Osakaya Restaurant,1,11:30 am - 9 pm
-Osakaya Restaurant,2,11:30 am - 9 pm
-Osakaya Restaurant,S,11:30 am - 9 pm
-Osakaya Restaurant,u,11:30 am - 9 pm
-Osakaya Restaurant,n,11:30 am - 9 pm
-Osakaya Restaurant,4,11:30 am - 9:30 pm
-Kushi Tsuru,0,11:30 am - 9 pm
-Kushi Tsuru,1,11:30 am - 9 pm
-Kushi Tsuru,2,11:30 am - 9 pm
-Kushi Tsuru,3,11:30 am - 9 pm
-Kushi Tsuru,4,11:30 am - 9 pm
-Kushi Tsuru,5,11:30 am - 9 pm
-The Stinking Rose,0,11:30 am - 10 pm
-The Stinking Rose,1,11:30 am - 10 pm
-The Stinking Rose,2,11:30 am - 10 pm
-The Stinking Rose,S,11:30 am - 10 pm
-The Stinking Rose,u,11:30 am - 10 pm
-The Stinking Rose,n,11:30 am - 10 pm
-The Stinking Rose,4,11:30 am - 11 pm
-McCormick & Kuleto's,0,11:30 am - 10 pm
-McCormick & Kuleto's,1,11:30 am - 10 pm
-McCormick & Kuleto's,2,11:30 am - 10 pm
-McCormick & Kuleto's,S,11:30 am - 10 pm
-McCormick & Kuleto's,u,11:30 am - 10 pm
-McCormick & Kuleto's,n,11:30 am - 10 pm
-McCormick & Kuleto's,4,11:30 am - 11 pm
-Mifune Restaurant,0,11 am - 10 pm
-Mifune Restaurant,1,11 am - 10 pm
-Mifune Restaurant,2,11 am - 10 pm
-Mifune Restaurant,3,11 am - 10 pm
-Mifune Restaurant,4,11 am - 10 pm
-Mifune Restaurant,5,11 am - 10 pm
-The Cheesecake Factory,0,11 am - 11 pm
-The Cheesecake Factory,1,11 am - 11 pm
-The Cheesecake Factory,2,11 am - 11 pm
-The Cheesecake Factory,4,11 am - 12:30 am
-The Cheesecake Factory,S,10 am - 11 pm
-The Cheesecake Factory,u,10 am - 11 pm
-The Cheesecake Factory,n,10 am - 11 pm
-New Delhi Indian Restaurant,0,11:30 am - 10 pm
-New Delhi Indian Restaurant,1,11:30 am - 10 pm
-New Delhi Indian Restaurant,2,11:30 am - 10 pm
-New Delhi Indian Restaurant,3,11:30 am - 10 pm
-New Delhi Indian Restaurant,4,11:30 am - 10 pm
-New Delhi Indian Restaurant,S,5:30 pm - 10 pm
-New Delhi Indian Restaurant,u,5:30 pm - 10 pm
-New Delhi Indian Restaurant,n,5:30 pm - 10 pm
-Iroha Restaurant,0,11:30 am - 9:30 pm
-Iroha Restaurant,1,11:30 am - 9:30 pm
-Iroha Restaurant,2,11:30 am - 9:30 pm
-Iroha Restaurant,S,11:30 am - 9:30 pm
-Iroha Restaurant,u,11:30 am - 9:30 pm
-Iroha Restaurant,n,11:30 am - 9:30 pm
-Iroha Restaurant,4,11:30 am - 10 pm
-Rose Pistola,0,11:30 am - 10 pm
-Rose Pistola,1,11:30 am - 10 pm
-Rose Pistola,2,11:30 am - 10 pm
-Rose Pistola,4,11:30 am - 11 pm
-Rose Pistola,5,11:30 am - 11 pm
-Alioto's Restaurant,0,11 am - 11 pm
-Alioto's Restaurant,1,11 am - 11 pm
-Alioto's Restaurant,2,11 am - 11 pm
-Alioto's Restaurant,3,11 am - 11 pm
-Alioto's Restaurant,4,11 am - 11 pm
-Alioto's Restaurant,5,11 am - 11 pm
-Canton Seafood & Dim Sum Restaurant,0,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,1,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,2,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,3,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,5,10 am - 9:30 pm
-All Season Restaurant,0,10 am - 9:30 pm
-All Season Restaurant,1,10 am - 9:30 pm
-All Season Restaurant,2,10 am - 9:30 pm
-All Season Restaurant,3,10 am - 9:30 pm
-All Season Restaurant,5,9:30 am - 9:30 pm
-Bombay Indian Restaurant,0,11:30 am - 10:30 pm
-Bombay Indian Restaurant,1,11:30 am - 10:30 pm
-Bombay Indian Restaurant,2,11:30 am - 10:30 pm
-Bombay Indian Restaurant,3,11:30 am - 10:30 pm
-Bombay Indian Restaurant,4,11:30 am - 10:30 pm
-Bombay Indian Restaurant,5,11:30 am - 10:30 pm
-Sam's Grill & Seafood Restaurant,0,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,1,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,2,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,3,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,S,5 pm - 9 pm
-Sam's Grill & Seafood Restaurant,a,5 pm - 9 pm
-Sam's Grill & Seafood Restaurant,t,5 pm - 9 pm
-2G Japanese Brasserie,0,11 am - 10 pm
-2G Japanese Brasserie,1,11 am - 10 pm
-2G Japanese Brasserie,2,11 am - 10 pm
-2G Japanese Brasserie,S,11 am - 10 pm
-2G Japanese Brasserie,u,11 am - 10 pm
-2G Japanese Brasserie,n,11 am - 10 pm
-2G Japanese Brasserie,4,11 am - 11 pm
-Restaurant Lulu,0,11:30 am - 9 pm
-Restaurant Lulu,1,11:30 am - 9 pm
-Restaurant Lulu,2,11:30 am - 9 pm
-Restaurant Lulu,S,11:30 am - 9 pm
-Restaurant Lulu,u,11:30 am - 9 pm
-Restaurant Lulu,n,11:30 am - 9 pm
-Restaurant Lulu,4,11:30 am - 10 pm
-Sudachi,0,5 pm - 12:30 am
-Sudachi,1,5 pm - 12:30 am
-Sudachi,3,5 pm - 1:30 am
-Sudachi,S,3 pm - 1:30 am
-Sudachi,a,3 pm - 1:30 am
-Sudachi,t,3 pm - 1:30 am
-Sudachi,S,3 pm - 11:30 pm
-Sudachi,u,3 pm - 11:30 pm
-Sudachi,n,3 pm - 11:30 pm
-Osakaya Restaurant,0,11:30 am - 9 pm
-Osakaya Restaurant,1,11:30 am - 9 pm
-Osakaya Restaurant,2,11:30 am - 9 pm
-Osakaya Restaurant,3,11:30 am - 9 pm
-Osakaya Restaurant,S,11:30 am - 9 pm
-Osakaya Restaurant,u,11:30 am - 9 pm
-Osakaya Restaurant,n,11:30 am - 9 pm
-Osakaya Restaurant,4,11:30 am - 9:30 pm
-Osakaya Restaurant,5,11:30 am - 9:30 pm
-Kushi Tsuru,0,11:30 am - 9 pm
-Kushi Tsuru,1,11:30 am - 9 pm
-Kushi Tsuru,2,11:30 am - 9 pm
-Kushi Tsuru,3,11:30 am - 9 pm
-Kushi Tsuru,4,11:30 am - 9 pm
-Kushi Tsuru,5,11:30 am - 9 pm
-Kushi Tsuru,6,11:30 am - 9 pm
-The Stinking Rose,0,11:30 am - 10 pm
-The Stinking Rose,1,11:30 am - 10 pm
-The Stinking Rose,2,11:30 am - 10 pm
-The Stinking Rose,3,11:30 am - 10 pm
-The Stinking Rose,S,11:30 am - 10 pm
-The Stinking Rose,u,11:30 am - 10 pm
-The Stinking Rose,n,11:30 am - 10 pm
-The Stinking Rose,4,11:30 am - 11 pm
-The Stinking Rose,5,11:30 am - 11 pm
-McCormick & Kuleto's,0,11:30 am - 10 pm
-McCormick & Kuleto's,1,11:30 am - 10 pm
-McCormick & Kuleto's,2,11:30 am - 10 pm
-McCormick & Kuleto's,3,11:30 am - 10 pm
-McCormick & Kuleto's,S,11:30 am - 10 pm
-McCormick & Kuleto's,u,11:30 am - 10 pm
-McCormick & Kuleto's,n,11:30 am - 10 pm
-McCormick & Kuleto's,4,11:30 am - 11 pm
-McCormick & Kuleto's,5,11:30 am - 11 pm
-Mifune Restaurant,0,11 am - 10 pm
-Mifune Restaurant,1,11 am - 10 pm
-Mifune Restaurant,2,11 am - 10 pm
-Mifune Restaurant,3,11 am - 10 pm
-Mifune Restaurant,4,11 am - 10 pm
-Mifune Restaurant,5,11 am - 10 pm
-Mifune Restaurant,6,11 am - 10 pm
-The Cheesecake Factory,0,11 am - 11 pm
-The Cheesecake Factory,1,11 am - 11 pm
-The Cheesecake Factory,2,11 am - 11 pm
-The Cheesecake Factory,3,11 am - 11 pm
-The Cheesecake Factory,4,11 am - 12:30 am
-The Cheesecake Factory,5,11 am - 12:30 am
-The Cheesecake Factory,S,10 am - 11 pm
-The Cheesecake Factory,u,10 am - 11 pm
-The Cheesecake Factory,n,10 am - 11 pm
-New Delhi Indian Restaurant,0,11:30 am - 10 pm
-New Delhi Indian Restaurant,1,11:30 am - 10 pm
-New Delhi Indian Restaurant,2,11:30 am - 10 pm
-New Delhi Indian Restaurant,3,11:30 am - 10 pm
-New Delhi Indian Restaurant,4,11:30 am - 10 pm
-New Delhi Indian Restaurant,5,11:30 am - 10 pm
-New Delhi Indian Restaurant,S,5:30 pm - 10 pm
-New Delhi Indian Restaurant,u,5:30 pm - 10 pm
-New Delhi Indian Restaurant,n,5:30 pm - 10 pm
-Iroha Restaurant,0,11:30 am - 9:30 pm
-Iroha Restaurant,1,11:30 am - 9:30 pm
-Iroha Restaurant,2,11:30 am - 9:30 pm
-Iroha Restaurant,3,11:30 am - 9:30 pm
-Iroha Restaurant,S,11:30 am - 9:30 pm
-Iroha Restaurant,u,11:30 am - 9:30 pm
-Iroha Restaurant,n,11:30 am - 9:30 pm
-Iroha Restaurant,4,11:30 am - 10 pm
-Iroha Restaurant,5,11:30 am - 10 pm
-Rose Pistola,0,11:30 am - 10 pm
-Rose Pistola,1,11:30 am - 10 pm
-Rose Pistola,2,11:30 am - 10 pm
-Rose Pistola,3,11:30 am - 10 pm
-Rose Pistola,4,11:30 am - 11 pm
-Rose Pistola,5,11:30 am - 11 pm
-Rose Pistola,6,11:30 am - 11 pm
-Alioto's Restaurant,0,11 am - 11 pm
-Alioto's Restaurant,1,11 am - 11 pm
-Alioto's Restaurant,2,11 am - 11 pm
-Alioto's Restaurant,3,11 am - 11 pm
-Alioto's Restaurant,4,11 am - 11 pm
-Alioto's Restaurant,5,11 am - 11 pm
-Alioto's Restaurant,6,11 am - 11 pm
-Canton Seafood & Dim Sum Restaurant,0,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,1,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,2,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,3,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,4,10:30 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,5,10 am - 9:30 pm
-Canton Seafood & Dim Sum Restaurant,6,10 am - 9:30 pm
-All Season Restaurant,0,10 am - 9:30 pm
-All Season Restaurant,1,10 am - 9:30 pm
-All Season Restaurant,2,10 am - 9:30 pm
-All Season Restaurant,3,10 am - 9:30 pm
-All Season Restaurant,4,10 am - 9:30 pm
-All Season Restaurant,5,9:30 am - 9:30 pm
-All Season Restaurant,6,9:30 am - 9:30 pm
-Bombay Indian Restaurant,0,11:30 am - 10:30 pm
-Bombay Indian Restaurant,1,11:30 am - 10:30 pm
-Bombay Indian Restaurant,2,11:30 am - 10:30 pm
-Bombay Indian Restaurant,3,11:30 am - 10:30 pm
-Bombay Indian Restaurant,4,11:30 am - 10:30 pm
-Bombay Indian Restaurant,5,11:30 am - 10:30 pm
-Bombay Indian Restaurant,6,11:30 am - 10:30 pm
-Sam's Grill & Seafood Restaurant,0,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,1,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,2,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,3,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,4,11 am - 9 pm
-Sam's Grill & Seafood Restaurant,S,5 pm - 9 pm
-Sam's Grill & Seafood Restaurant,a,5 pm - 9 pm
-Sam's Grill & Seafood Restaurant,t,5 pm - 9 pm
-2G Japanese Brasserie,0,11 am - 10 pm
-2G Japanese Brasserie,1,11 am - 10 pm
-2G Japanese Brasserie,2,11 am - 10 pm
-2G Japanese Brasserie,3,11 am - 10 pm
-2G Japanese Brasserie,S,11 am - 10 pm
-2G Japanese Brasserie,u,11 am - 10 pm
-2G Japanese Brasserie,n,11 am - 10 pm
-2G Japanese Brasserie,4,11 am - 11 pm
-2G Japanese Brasserie,5,11 am - 11 pm
-Restaurant Lulu,0,11:30 am - 9 pm
-Restaurant Lulu,1,11:30 am - 9 pm
-Restaurant Lulu,2,11:30 am - 9 pm
-Restaurant Lulu,3,11:30 am - 9 pm
-Restaurant Lulu,S,11:30 am - 9 pm
-Restaurant Lulu,u,11:30 am - 9 pm
-Restaurant Lulu,n,11:30 am - 9 pm
-Restaurant Lulu,4,11:30 am - 10 pm
-Restaurant Lulu,5,11:30 am - 10 pm
-Sudachi,0,5 pm - 12:30 am
-Sudachi,1,5 pm - 12:30 am
-Sudachi,2,5 pm - 12:30 am
-Sudachi,3,5 pm - 1:30 am
-Sudachi,4,5 pm - 1:30 am
-Sudachi,S,3 pm - 1:30 am
-Sudachi,a,3 pm - 1:30 am
-Sudachi,t,3 pm - 1:30 am
-Sudachi,S,3 pm - 11:30 pm
-Sudachi,u,3 pm - 11:30 pm
-Sudachi,n,3 pm - 11:30 pm
+Kushi Tsuru,0,690,1260
+Kushi Tsuru,1,690,1260
+Kushi Tsuru,2,690,1260
+Kushi Tsuru,3,690,1260
+Kushi Tsuru,4,690,1260
+Kushi Tsuru,5,690,1260
+Kushi Tsuru,6,690,1260
+Osakaya Restaurant,0,690,1260
+Osakaya Restaurant,1,690,1260
+Osakaya Restaurant,2,690,1260
+Osakaya Restaurant,3,690,1260
+Osakaya Restaurant,6,690,1260
+Osakaya Restaurant,4,690,1290
+Osakaya Restaurant,5,690,1290
+The Stinking Rose,0,690,1320
+The Stinking Rose,1,690,1320
+The Stinking Rose,2,690,1320
+The Stinking Rose,3,690,1320
+The Stinking Rose,6,690,1320
+The Stinking Rose,4,690,1380
+The Stinking Rose,5,690,1380
+McCormick & Kuleto's,0,690,1320
+McCormick & Kuleto's,1,690,1320
+McCormick & Kuleto's,2,690,1320
+McCormick & Kuleto's,3,690,1320
+McCormick & Kuleto's,6,690,1320
+McCormick & Kuleto's,4,690,1380
+McCormick & Kuleto's,5,690,1380
+Mifune Restaurant,0,660,1320
+Mifune Restaurant,1,660,1320
+Mifune Restaurant,2,660,1320
+Mifune Restaurant,3,660,1320
+Mifune Restaurant,4,660,1320
+Mifune Restaurant,5,660,1320
+Mifune Restaurant,6,660,1320
+The Cheesecake Factory,0,660,1380
+The Cheesecake Factory,1,660,1380
+The Cheesecake Factory,2,660,1380
+The Cheesecake Factory,3,660,1380
+The Cheesecake Factory,4,660,1439
+The Cheesecake Factory,5,0,30
+The Cheesecake Factory,5,660,1439
+The Cheesecake Factory,6,0,30
+The Cheesecake Factory,6,600,1380
+New Delhi Indian Restaurant,0,690,1320
+New Delhi Indian Restaurant,1,690,1320
+New Delhi Indian Restaurant,2,690,1320
+New Delhi Indian Restaurant,3,690,1320
+New Delhi Indian Restaurant,4,690,1320
+New Delhi Indian Restaurant,5,690,1320
+New Delhi Indian Restaurant,6,1050,1320
+Iroha Restaurant,0,690,1290
+Iroha Restaurant,1,690,1290
+Iroha Restaurant,2,690,1290
+Iroha Restaurant,3,690,1290
+Iroha Restaurant,6,690,1290
+Iroha Restaurant,4,690,1320
+Iroha Restaurant,5,690,1320
+Rose Pistola,0,690,1320
+Rose Pistola,1,690,1320
+Rose Pistola,2,690,1320
+Rose Pistola,3,690,1320
+Rose Pistola,4,690,1380
+Rose Pistola,5,690,1380
+Rose Pistola,6,690,1380
+Alioto's Restaurant,0,660,1380
+Alioto's Restaurant,1,660,1380
+Alioto's Restaurant,2,660,1380
+Alioto's Restaurant,3,660,1380
+Alioto's Restaurant,4,660,1380
+Alioto's Restaurant,5,660,1380
+Alioto's Restaurant,6,660,1380
+Canton Seafood & Dim Sum Restaurant,0,630,1290
+Canton Seafood & Dim Sum Restaurant,1,630,1290
+Canton Seafood & Dim Sum Restaurant,2,630,1290
+Canton Seafood & Dim Sum Restaurant,3,630,1290
+Canton Seafood & Dim Sum Restaurant,4,630,1290
+Canton Seafood & Dim Sum Restaurant,5,600,1290
+Canton Seafood & Dim Sum Restaurant,6,600,1290
+All Season Restaurant,0,600,1290
+All Season Restaurant,1,600,1290
+All Season Restaurant,2,600,1290
+All Season Restaurant,3,600,1290
+All Season Restaurant,4,600,1290
+All Season Restaurant,5,570,1290
+All Season Restaurant,6,570,1290
+Bombay Indian Restaurant,0,690,1350
+Bombay Indian Restaurant,1,690,1350
+Bombay Indian Restaurant,2,690,1350
+Bombay Indian Restaurant,3,690,1350
+Bombay Indian Restaurant,4,690,1350
+Bombay Indian Restaurant,5,690,1350
+Bombay Indian Restaurant,6,690,1350
+Sam's Grill & Seafood Restaurant,0,660,1260
+Sam's Grill & Seafood Restaurant,1,660,1260
+Sam's Grill & Seafood Restaurant,2,660,1260
+Sam's Grill & Seafood Restaurant,3,660,1260
+Sam's Grill & Seafood Restaurant,4,660,1260
+Sam's Grill & Seafood Restaurant,5,1020,1260
+2G Japanese Brasserie,0,660,1320
+2G Japanese Brasserie,1,660,1320
+2G Japanese Brasserie,2,660,1320
+2G Japanese Brasserie,3,660,1320
+2G Japanese Brasserie,6,660,1320
+2G Japanese Brasserie,4,660,1380
+2G Japanese Brasserie,5,660,1380
+Restaurant Lulu,0,690,1260
+Restaurant Lulu,1,690,1260
+Restaurant Lulu,2,690,1260
+Restaurant Lulu,3,690,1260
+Restaurant Lulu,6,690,1260
+Restaurant Lulu,4,690,1320
+Restaurant Lulu,5,690,1320
+Sudachi,0,1020,1439
+Sudachi,1,0,30
+Sudachi,1,1020,1439
+Sudachi,2,0,30
+Sudachi,2,1020,1439
+Sudachi,3,0,30
+Sudachi,3,1020,1439
+Sudachi,4,0,90
+Sudachi,4,1020,1439
+Sudachi,5,0,90
+Sudachi,5,900,1439
+Sudachi,6,0,90
+Sudachi,6,900,1410
