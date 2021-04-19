@@ -6,7 +6,16 @@ import pdb
 
 
 timeRegex = r'(?<=[a-z])\s(?=[0-9])'
-DAYS_OF_WEEK = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+DAYS_OF_WEEK = ['Mon', 'Tues', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+
+
+def daysNormalizer(day):
+    day = day.strip()
+    if(day in ['Thu', 'Thurs']):
+        return 'Thu'
+    if(day in ['Wed', 'Weds']):
+        return 'Wed'
+    return day
 
 
 def flatten(arr):
@@ -75,11 +84,11 @@ def decomposeByDays(days):
     """
 
     if days.find("-") < 0:
-        return [DAYS_OF_WEEK.index(days)]
+        return [DAYS_OF_WEEK.index(daysNormalizer(days))]
 
     start, end = days.split("-")
-    start = DAYS_OF_WEEK.index(start)
-    end = DAYS_OF_WEEK.index(end)
+    start = DAYS_OF_WEEK.index(daysNormalizer(start))
+    end = DAYS_OF_WEEK.index(daysNormalizer(end))
     if end < start:
         end += 7
     decomposed = map(lambda x: x % 7, range(start, end + 1))
